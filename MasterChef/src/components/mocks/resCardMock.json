@@ -1,0 +1,85 @@
+{
+  "id": "38634",
+  "name": "Third Wave Coffee",
+  "cloudinaryImageId": "d96267738c19ec62acb5390e52faba41",
+  "locality": "Koramangala",
+  "areaName": "Koramangala",
+  "costForTwo": "₹400 for two",
+  "cuisines": ["Beverages", "Bakery", "Continental"],
+  "avgRating": 4.4,
+  "feeDetails": {
+    "restaurantId": "38634",
+    "fees": [
+      {
+        "name": "BASE_DISTANCE",
+        "fee": 3300
+      },
+      {
+        "name": "BASE_TIME"
+      },
+      {
+        "name": "ANCILLARY_SURGE_FEE"
+      }
+    ],
+    "totalFee": 3300
+  },
+  "parentId": "274773",
+  "avgRatingString": "4.4",
+  "totalRatingsString": "5K+",
+  "sla": {
+    "deliveryTime": 18,
+    "lastMileTravel": 0.8,
+    "serviceability": "SERVICEABLE",
+    "slaString": "18 mins",
+    "lastMileTravelString": "0.8 km",
+    "iconType": "ICON_TYPE_EMPTY"
+  },
+  "availability": {
+    "nextCloseTime": "2023-10-22 03:00:00",
+    "opened": true
+  },
+  "badges": {
+    "textExtendedBadges": [
+      {
+        "iconId": "guiltfree/GF_Logo_android_3x",
+        "shortDescription": "options available",
+        "fontColor": "#7E808C"
+      }
+    ]
+  },
+  "isOpen": true,
+  "type": "F",
+  "badgesV2": {
+    "entityBadges": {
+      "imageBased": {},
+      "textBased": {},
+      "textExtendedBadges": {
+        "badgeObject": [
+          {
+            "attributes": {
+              "description": "",
+              "fontColor": "#7E808C",
+              "iconId": "guiltfree/GF_Logo_android_3x",
+              "shortDescription": "options available"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "aggregatedDiscountInfoV3": {
+    "header": "20% OFF",
+    "subHeader": "UPTO ₹50"
+  },
+  "differentiatedUi": {
+    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+    "differentiatedUiMediaDetails": {
+      "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+      "lottie": {},
+      "video": {}
+    }
+  },
+  "reviewsSummary": {},
+  "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+  "restaurantOfferPresentationInfo": {}
+}

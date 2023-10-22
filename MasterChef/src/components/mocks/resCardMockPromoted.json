@@ -1,0 +1,71 @@
+{
+  "id": "223",
+  "name": "Truffles",
+  "cloudinaryImageId": "cd832b6167eb9f88aeb1ccdebf38d942",
+  "locality": "Koramangala",
+  "areaName": "Koramangala",
+  "costForTwo": "₹450 for two",
+  "cuisines": ["American", "Continental", "Desserts", "Italian"],
+  "avgRating": 4.4,
+  "feeDetails": {
+    "restaurantId": "223",
+    "fees": [
+      {
+        "name": "BASE_DISTANCE",
+        "fee": 3300
+      },
+      {
+        "name": "BASE_TIME"
+      },
+      {
+        "name": "ANCILLARY_SURGE_FEE"
+      }
+    ],
+    "totalFee": 3300
+  },
+  "parentId": "218065",
+  "avgRatingString": "4.4",
+  "totalRatingsString": "10K+",
+  "promoted": true,
+  "adTrackingId": "cid=8973786~p=1~eid=0000018b-5072-0e9a-24a3-b17400b50163~srvts=1697861734042~63141",
+  "sla": {
+    "deliveryTime": 30,
+    "lastMileTravel": 1.6,
+    "serviceability": "SERVICEABLE",
+    "slaString": "30 mins",
+    "lastMileTravelString": "1.6 km",
+    "iconType": "ICON_TYPE_EMPTY"
+  },
+  "availability": {
+    "nextCloseTime": "2023-10-21 23:30:00",
+    "opened": true
+  },
+  "badges": {},
+  "isOpen": true,
+  "aggregatedDiscountInfoV2": {},
+  "type": "F",
+  "badgesV2": {
+    "entityBadges": {
+      "imageBased": {},
+      "textBased": {},
+      "textExtendedBadges": {}
+    }
+  },
+  "orderabilityCommunication": {
+    "title": {},
+    "subTitle": {},
+    "message": {},
+    "customIcon": {}
+  },
+  "differentiatedUi": {
+    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+    "differentiatedUiMediaDetails": {
+      "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+      "lottie": {},
+      "video": {}
+    }
+  },
+  "reviewsSummary": {},
+  "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+  "restaurantOfferPresentationInfo": {}
+}
