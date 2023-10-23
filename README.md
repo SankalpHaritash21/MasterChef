@@ -17,3 +17,14 @@ This is a fascinating project – a clone of the Swiggy website using the power 
 I want to express my gratitude to the amazing team that worked on this project. It was truly a collaborative effort that paid off beautifully.
 
 #ReactJS #TailwindCSS #Jest #SwiggyAPI #WebDevelopment #SwiggyClone #TechProject #LearningByDoing #WebDesign
+
+# Images:
+
+![1](https://github.com/SankalpHaritash21/MasterChef/assets/110713125/604da4e9-f3d3-4295-955a-32c56b064e63)
+
+![3](https://github.com/SankalpHaritash21/MasterChef/assets/110713125/e10f8ef6-48d6-4bd5-bed6-134332775dae)
+
+
+![4](https://github.com/SankalpHaritash21/MasterChef/assets/110713125/99956108-6f68-49bd-b8a4-2b4192bd0413)
+
+
