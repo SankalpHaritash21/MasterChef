@@ -14,8 +14,6 @@ This is a fascinating project – a clone of the Swiggy website using the power 
 
 💡 Learning Experience: Building this clone was not only a great technical challenge but also a fantastic opportunity for learning about working with live APIs and understanding how a platform like Swiggy operates.
 
-I want to express my gratitude to the amazing team that worked on this project. It was truly a collaborative effort that paid off beautifully.
-
 #ReactJS #TailwindCSS #Jest #SwiggyAPI #WebDevelopment #SwiggyClone #TechProject #LearningByDoing #WebDesign
 
 # Images:
